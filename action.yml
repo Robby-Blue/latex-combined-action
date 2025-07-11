@@ -1,0 +1,5 @@
+name: "LaTex Combined Compiler"
+description: "Uses latex-combiner in a Github Action"
+runs:
+  using: "docker"
+  image: "Dockerfile"
